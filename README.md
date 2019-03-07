@@ -2,28 +2,28 @@
 
 Function of each file and folder
 
-#Folders
+# Folders
 
-#Original_Dataset 
+# Original_Dataset 
 
 Dataset of LITS (Prerna Mam) 
 
 
-#Enlarged_Dataset
+# Enlarged_Dataset
 
 Dataset enlarged using code (Version 1) 
 
 Code used-enlargeImage.py
 
 
-#Removedsuperimposition_Dataset
+# Removedsuperimposition_Dataset
 
 Dataset having liver and lesion separately
 
 Code used-removingSuperimposition.py
 
 
-#EnalrgedWithoutBorder_Dataset 
+# EnalrgedWithoutBorder_Dataset 
 
 
 Dataset enlarged using img.resize()
